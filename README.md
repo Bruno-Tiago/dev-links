@@ -2,7 +2,7 @@
 
 O DevLinks é um agregador de links para usar como um cartão de visitas online.
 
-O projeto foi desenvolvido utilizando as linguagens HTML, CSS e JavaScript. O HTML foi usado para criar a estrutura da página web, o CSS para estilizar os elementos e o JavaScript para implementar a lógica.
+O projeto foi desenvolvido utilizando as linguagens HTML, CSS e JavaScript. O HTML foi usado para criar a estrutura da página web, o CSS para estilizar os elementos e o JavaScript para implementar a mudança de tema na página.
 
 ## Ferramentas utilizadas:
 
